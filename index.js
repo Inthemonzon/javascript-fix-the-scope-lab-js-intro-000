@@ -8,7 +8,7 @@ function myAnimal() {
 function yourAnimal() {
   return function myAnimal(){
 
-    return animal
+    return your animal
   }
 }
   // The tests expect this function to return `animal` just like the previous function
