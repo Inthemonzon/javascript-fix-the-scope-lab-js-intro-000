@@ -16,10 +16,8 @@ function yourAnimal() {
   // P.S.: Hard-coding 'cat' below will not work
 
 function add2(n) {
-  return n + two
-
+  return n + 2
   // Feel free to move things around!
-  const two = 2
 }
 
 var funkyFunction = function() {
